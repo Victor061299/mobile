@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px){
+	#no{
+		display: none;
+	}
+	#si{
+		text-align: center;
+		width: 80%;
+	}
+}
